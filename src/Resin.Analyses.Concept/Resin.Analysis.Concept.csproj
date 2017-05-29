@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+    <AssemblyName>Resin.Analysis.Concept</AssemblyName>
+    <RootNamespace>Resin.Analysis.Concept</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ResinCore\ResinCore.csproj" />
+  </ItemGroup>
+
+</Project>
